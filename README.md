@@ -1,1 +1,2 @@
 # Gen-AI-FOUNDATIONS
+02_generative_ai_for_beginners/02_genai_foundations
