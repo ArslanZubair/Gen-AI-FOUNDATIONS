@@ -1,2 +1,3 @@
 # Gen-AI-FOUNDATIONS
-02_generative_ai_for_beginners/02_genai_foundations
+
+visit this website (https://github.com/panaversity/learn-agentic-ai/tree/main/02_generative_ai_for_beginners/02_genai_foundations)(url)
